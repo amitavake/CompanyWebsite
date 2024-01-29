@@ -40,6 +40,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "terminal"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -95,11 +102,28 @@
       <option name="project" value="LOCAL" />
       <updated>1706492252935</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Final commit (01/28/24; 9:59 pm)">
+      <option name="closed" value="true" />
+      <created>1706497175416</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706497175416</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final commit (01/28/24; 9:59 pm)">
+      <option name="closed" value="true" />
+      <created>1706497296067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706497296067</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit (01/28/24)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit (01/28/24)" />
+    <MESSAGE value="Final commit (01/28/24; 9:59 pm)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit (01/28/24; 9:59 pm)" />
   </component>
 </project>
