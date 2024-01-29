@@ -33,5 +33,3 @@ with col3:
         st.header(row["first name"].capitalize() + " " + row["last name"].capitalize())
         st.write(row["role"])
         st.image("images/" + row["image"])
-
-
